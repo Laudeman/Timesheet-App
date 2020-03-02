@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bobbylaudeman/repos/projects/C#/pdfApp/pdfApp.csproj": {}
+    "/Users/bobbylaudeman/repos/Timesheet-App/pdfApp.csproj": {}
   },
   "projects": {
-    "/Users/bobbylaudeman/repos/projects/C#/pdfApp/pdfApp.csproj": {
+    "/Users/bobbylaudeman/repos/Timesheet-App/pdfApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bobbylaudeman/repos/projects/C#/pdfApp/pdfApp.csproj",
+        "projectUniqueName": "/Users/bobbylaudeman/repos/Timesheet-App/pdfApp.csproj",
         "projectName": "pdfApp",
-        "projectPath": "/Users/bobbylaudeman/repos/projects/C#/pdfApp/pdfApp.csproj",
+        "projectPath": "/Users/bobbylaudeman/repos/Timesheet-App/pdfApp.csproj",
         "packagesPath": "/Users/bobbylaudeman/.nuget/packages/",
-        "outputPath": "/Users/bobbylaudeman/repos/projects/C#/pdfApp/obj/",
+        "outputPath": "/Users/bobbylaudeman/repos/Timesheet-App/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bobbylaudeman/.nuget/NuGet/NuGet.Config"
