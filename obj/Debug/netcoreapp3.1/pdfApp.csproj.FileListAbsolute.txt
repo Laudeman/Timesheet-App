@@ -1,0 +1,17 @@
+/Users/bobbylaudeman/repos/projects/C#/pdfApp/bin/Debug/netcoreapp3.1/pdfApp
+/Users/bobbylaudeman/repos/projects/C#/pdfApp/bin/Debug/netcoreapp3.1/pdfApp.deps.json
+/Users/bobbylaudeman/repos/projects/C#/pdfApp/bin/Debug/netcoreapp3.1/pdfApp.runtimeconfig.json
+/Users/bobbylaudeman/repos/projects/C#/pdfApp/bin/Debug/netcoreapp3.1/pdfApp.runtimeconfig.dev.json
+/Users/bobbylaudeman/repos/projects/C#/pdfApp/bin/Debug/netcoreapp3.1/pdfApp.dll
+/Users/bobbylaudeman/repos/projects/C#/pdfApp/bin/Debug/netcoreapp3.1/pdfApp.pdb
+/Users/bobbylaudeman/repos/projects/C#/pdfApp/bin/Debug/netcoreapp3.1/HtmlAgilityPack.dll
+/Users/bobbylaudeman/repos/projects/C#/pdfApp/bin/Debug/netcoreapp3.1/itextsharp.dll
+/Users/bobbylaudeman/repos/projects/C#/pdfApp/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/bobbylaudeman/repos/projects/C#/pdfApp/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/bobbylaudeman/repos/projects/C#/pdfApp/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Users/bobbylaudeman/repos/projects/C#/pdfApp/obj/Debug/netcoreapp3.1/pdfApp.csprojAssemblyReference.cache
+/Users/bobbylaudeman/repos/projects/C#/pdfApp/obj/Debug/netcoreapp3.1/pdfApp.AssemblyInfoInputs.cache
+/Users/bobbylaudeman/repos/projects/C#/pdfApp/obj/Debug/netcoreapp3.1/pdfApp.AssemblyInfo.cs
+/Users/bobbylaudeman/repos/projects/C#/pdfApp/obj/Debug/netcoreapp3.1/pdfApp.csproj.CopyComplete
+/Users/bobbylaudeman/repos/projects/C#/pdfApp/obj/Debug/netcoreapp3.1/pdfApp.dll
+/Users/bobbylaudeman/repos/projects/C#/pdfApp/obj/Debug/netcoreapp3.1/pdfApp.pdb

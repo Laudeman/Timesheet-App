@@ -1,0 +1,14 @@
+/home/bobby/projects/C#/pdfApp/bin/release/netcoreapp2.1/ubuntu.18.04-x64/libhostpolicy.so
+/home/bobby/projects/C#/pdfApp/bin/release/netcoreapp2.1/ubuntu.18.04-x64/libhostfxr.so
+/home/bobby/projects/C#/pdfApp/bin/release/netcoreapp2.1/ubuntu.18.04-x64/pdfApp
+/home/bobby/projects/C#/pdfApp/bin/release/netcoreapp2.1/ubuntu.18.04-x64/pdfApp.deps.json
+/home/bobby/projects/C#/pdfApp/bin/release/netcoreapp2.1/ubuntu.18.04-x64/pdfApp.runtimeconfig.json
+/home/bobby/projects/C#/pdfApp/bin/release/netcoreapp2.1/ubuntu.18.04-x64/pdfApp.runtimeconfig.dev.json
+/home/bobby/projects/C#/pdfApp/bin/release/netcoreapp2.1/ubuntu.18.04-x64/pdfApp.dll
+/home/bobby/projects/C#/pdfApp/bin/release/netcoreapp2.1/ubuntu.18.04-x64/pdfApp.pdb
+/home/bobby/projects/C#/pdfApp/obj/release/netcoreapp2.1/ubuntu.18.04-x64/pdfApp.csprojAssemblyReference.cache
+/home/bobby/projects/C#/pdfApp/obj/release/netcoreapp2.1/ubuntu.18.04-x64/pdfApp.csproj.CoreCompileInputs.cache
+/home/bobby/projects/C#/pdfApp/obj/release/netcoreapp2.1/ubuntu.18.04-x64/pdfApp.AssemblyInfoInputs.cache
+/home/bobby/projects/C#/pdfApp/obj/release/netcoreapp2.1/ubuntu.18.04-x64/pdfApp.AssemblyInfo.cs
+/home/bobby/projects/C#/pdfApp/obj/release/netcoreapp2.1/ubuntu.18.04-x64/pdfApp.dll
+/home/bobby/projects/C#/pdfApp/obj/release/netcoreapp2.1/ubuntu.18.04-x64/pdfApp.pdb

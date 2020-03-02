@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bobbylaudeman/repos/projects/C#/pdfApp/pdfApp.csproj": {}
+  },
+  "projects": {
+    "/Users/bobbylaudeman/repos/projects/C#/pdfApp/pdfApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bobbylaudeman/repos/projects/C#/pdfApp/pdfApp.csproj",
+        "projectName": "pdfApp",
+        "projectPath": "/Users/bobbylaudeman/repos/projects/C#/pdfApp/pdfApp.csproj",
+        "packagesPath": "/Users/bobbylaudeman/.nuget/packages/",
+        "outputPath": "/Users/bobbylaudeman/repos/projects/C#/pdfApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bobbylaudeman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.8.13, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[2.45.0, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
